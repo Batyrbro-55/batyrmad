@@ -1,6 +1,12 @@
 # Жастар арасындағы азарттық ойындар
 
-Интерактивті зерттеу сайты, толық қазақ тілінде. HTML, CSS және JavaScript; сервер, тәуелділіктер және API кілттері қажет емес.
+Интерактивті зерттеу сайты, қазақ және ағылшын тілдерінде. Автор: **Мадени Батырхан / Batyrkhan Madeni**. HTML, CSS және JavaScript; сервер, тәуелділіктер және API кілттері қажет емес.
+
+## Тілдер / Languages
+
+Бірінші кіргенде тіл таңдау экраны ашылады. Тек тіл таңдауы `localStorage` ішінде сақталады; жауаптар сақталмайды. Шапкадағы ҚАЗ / EN ауыстырғышы ағымдағы бөлімді сақтайды, бірақ бет жадындағы жауаптар жаңартқанда өшеді. Тікелей сілтемелер: `?lang=kk#research` және `?lang=en#research`. Браузер қоймасы бұғатталса да URL параметрі жұмыс істейді.
+
+`language.js` loads the selected edition. `app.js` / `app.en.js` provide the simulations; `research.js` / `research.en.js` provide the research pages and legal exercises. Keep both editions aligned when changing content, scoring or simulation rules. Both use the same aggregate `survey-results.json` file. Source links open original legal documents; English summaries are explanatory translations. Questionnaire downloads are available in both languages.
 
 ## Vercel арқылы жариялау
 
