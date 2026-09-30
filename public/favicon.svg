@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Batyrkhan Madeni</title>
-  <path fill="#263b46" d="M10 0h44a10 10 0 0 1 10 10v44a10 10 0 0 1-10 10H10A10 10 0 0 1 0 54V10A10 10 0 0 1 10 0Z"/>
-  <path fill="#f3eee4" fill-rule="evenodd" d="M10 16h11c8 0 12 3 12 8 0 4-2 6-5 7 4 1 6 4 6 8 0 6-5 9-13 9H10V16Zm7 6v7h4c4 0 5-1 5-4s-2-3-5-3h-4Zm0 13v7h5c4 0 5-1 5-4 0-2-2-3-6-3h-4Z"/>
-  <path fill="#c9ab87" d="M35 48V16h6l6 13 6-13h5v32h-6V30l-5 10-6-10v18Z"/>
+  <title>Four reels, one offset</title>
+  <rect width="64" height="64" rx="4" fill="#f1ede4"/>
+  <path fill="#263b46" d="M8 16h8v32H8zM20 16h8v32h-8zM32 16h8v32h-8z"/>
+  <path fill="#a34e39" d="M44 8h8v32h-8z"/>
 </svg>
