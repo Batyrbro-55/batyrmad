@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="#293f50"/><text x="32" y="46" text-anchor="middle" font-family="Georgia" font-size="46" fill="white">З</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#243b47"/>
+  <g fill="none" stroke="#f4f2ed" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 15v35M22 51h20M16 24h32M18 25l-7 14h14l-7-14ZM46 25l-7 14h14l-7-14Z"/>
+  </g>
+  <path d="M11 39a7 7 0 0 0 14 0M39 39a7 7 0 0 0 14 0" fill="#f4f2ed"/>
+  <circle cx="32" cy="17" r="3.5" fill="#c7a984"/>
+</svg>
